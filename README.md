@@ -23,4 +23,4 @@ multithreading code.
 
 ## Report below here
 ### Screenchot
-<img src="ppc1.png" width="160" height="60px"></img>
+<img src="ppc1.png" width="321" height="120px"></img>
